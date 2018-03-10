@@ -1,0 +1,11 @@
+{
+  "name": "m3u8-downloader",
+  "version": "1.0.0",
+  "description": "Download .ts files from m3u8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Man Yeung",
+  "license": "ISC"
+}
